@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai";
 import Image from "next/image";
 import deved from "../public/dev-ed-wave.png";
+import { coverage } from 'browserslist';
 
 export default function Home() {
   return (
@@ -50,8 +51,8 @@ export default function Home() {
               <AiFillLinkedin/>
               <AiFillYoutube/>
             </div>
-            <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20'>
-              <Image src={deved} fill sizes="(max-width: 768px) 100vw, (max-width: 1200px 50vw, 33vw"/>
+            <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden'>
+              <Image src={deved} fill style={coverage}/>
             </div>
             
           </section>
