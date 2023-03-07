@@ -29,7 +29,7 @@ export default function Home() {
                 </li>
                 <li>
                   <a
-                   className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' 
+                   className ='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' 
                    href='#'
                    >
                     Resume
@@ -52,7 +52,7 @@ export default function Home() {
               <AiFillYoutube/>
             </div>
             <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden'>
-              <Image src={deved} fill style={coverage}/>
+              <Image src={deved} layout="fill" objectFit="cover" />
             </div>
             
           </section>
