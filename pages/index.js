@@ -54,8 +54,24 @@ export default function Home() {
             <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden'>
               <Image src={deved} layout="fill" objectFit="cover" />
             </div>
-            
           </section>
+
+          <section>
+            <div>
+              <h3 className='text-3xl py-1'> Services that I offer </h3>
+              <p className='text-md py-2 leading-8 text-gray-800'>
+                {" "}
+                asoiasnoifn saoif nasoiasf sapiohfdsa poiash pisaof
+                a aopisdah poisadhf oih asdpoifash safiosugsaaspioö fasifusagsidousgfiaposid 
+                dsajklb saijbs okhasndj aspiudb asidfjbsa ijbsadif jsadbiasjdkb sdj
+              <span className='text-teal-500'>agencies</span>
+              consulted for<span className='text-teal-500'>startups</span>
+              ajsdfnisljk askj asdjkfba asjkldfba ifasbj asdjkfbda fijaskb asijb 
+              asp baifjb iabs jdofijsakbijfbsajfbasp f aiufdsb aiusab faui pa 
+              </p>
+            </div>
+          </section>
+          
       </main>
     </div>
   );
