@@ -7,7 +7,9 @@ import {
 } from "react-icons/ai";
 import Image from "next/image";
 import deved from "../public/dev-ed-wave.png";
-import { coverage } from 'browserslist';
+import design from "../public/design.png";
+import code from "../public/code.png";
+import consulting from "../public/consulting.png";
 
 export default function Home() {
   return (
@@ -69,6 +71,54 @@ export default function Home() {
               ajsdfnisljk askj asdjkfba asjkldfba ifasbj asdjkfbda fijaskb asijb 
               asp baifjb iabs jdofijsakbijfbsajfbasp f aiufdsb aiusab faui pa 
               </p>
+              <p className='text-md py-2 leading-8 text-gray-800'>
+                savijbs dsvaiubvsaiiusab sviaub divub isub vsaio sviu basv
+                sdiuv hisuvb asioub vasioub 
+              </p>
+            </div>
+            <div>
+              <div className='text-center shadow-lg p-10 rounded-xl my-10'>
+                <Image src={design} width={100} height={100} />
+                <h3 className='text-lg font-medium pt-8 pb-2'>
+                  Beautiful Designs
+                </h3>
+                <p className='py-2'>
+                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
+                  ksjf isub aiousbaou foba soidb asib oiusa
+                </p>
+                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
+                <p className='text-gray-800 py-1'>Photoshop</p>
+                <p className='text-gray-800 py-1'>Illustrator</p>
+                <p className='text-gray-800 py-1'>Figma</p>
+              </div>
+              <div className='text-center items-center shadow-lg p-10 rounded-xl my-10'>
+                <Image src={consulting} width={100} height={100} />
+                <h3 className='text-lg font-medium pt-8 pb-2'>
+                  Beautiful Designs
+                </h3>
+                <p className='py-2'>
+                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
+                  ksjf isub aiousbaou foba soidb asib oiusa
+                </p>
+                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
+                <p className='text-gray-800 py-1'>Photoshop</p>
+                <p className='text-gray-800 py-1'>Illustrator</p>
+                <p className='text-gray-800 py-1'>Figma</p>
+              </div>
+              <div className='text-center shadow-lg p-10 rounded-xl my-10'>
+                <Image src={code} width={100} height={100} object-center/>
+                <h3 className='text-lg font-medium pt-8 pb-2'>
+                  Beautiful Designs
+                </h3>
+                <p className='py-2'>
+                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
+                  ksjf isub aiousbaou foba soidb asib oiusa
+                </p>
+                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
+                <p className='text-gray-800 py-1'>Photoshop</p>
+                <p className='text-gray-800 py-1'>Illustrator</p>
+                <p className='text-gray-800 py-1'>Figma</p>
+              </div>
             </div>
           </section>
           
