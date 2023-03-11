@@ -51,9 +51,10 @@ export default function Home() {
               <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Joan Osorio</h2>
               <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Full-Stack Developer</h3>
               <p className='text-ms py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white'>
-                iuaefbs asdiufba is siufb iasuf uisaf sifudsi ffsaiu gfsaiuf gbasikjsbcs  sijbsdiu 
-                sfbsdibfs sdiufb sdi usdiu sdiufs dfsi usdius fiufsa iouagio aiufg siofuas iofug aiufga
-                aiou asiufg assdaioufsg fsiudsgoiusag fasifusagsidousgfi as siufg safiosugsa iuosa
+                I started my Full-Stack Development journey in 2021 through Harvards CS50x online course.
+                 Whilst working as an Electrician i completed the course in 12.2022. I learnt everything 
+                 from the fundamentals of using C, moving on to Python, learning to use Databases and 
+                 frameworks such as Flask 
               </p>
             </div>
             <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
@@ -94,9 +95,9 @@ export default function Home() {
                   sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
                   ksjf isub aiousbaou foba soidb asib oiusa
                 </p>
-                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
-                <p className='text-gray-800 py-1'>Photoshop</p>
-                <p className='text-gray-800 py-1'>Illustrator</p>
+                <h4 className='py-4 text-teal-600'>Technologies i work with </h4>
+                <p className='text-gray-800 py-1'>Python</p>
+                <p className='text-gray-800 py-1'>C</p>
                 <p className='text-gray-800 py-1'>Figma</p>
               </div>
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
