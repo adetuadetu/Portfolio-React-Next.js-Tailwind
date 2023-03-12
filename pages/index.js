@@ -89,30 +89,33 @@ export default function Home() {
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
                 <Image src={design} width={100} height={100} />
                 <h3 className='text-lg font-medium pt-8 pb-2'>
-                  Beautiful Designs
+                  Front-End
                 </h3>
                 <p className='py-2'>
-                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
-                  ksjf isub aiousbaou foba soidb asib oiusa
+                  As well as using HTML and CSS i also use frameworks such
+                   as Tailwind, Flask, React.js and Next.js 
                 </p>
-                <h4 className='py-4 text-teal-600'>Technologies i work with </h4>
-                <p className='text-gray-800 py-1'>Python</p>
-                <p className='text-gray-800 py-1'>C</p>
+                <h4 className='py-4 text-teal-600'>Technologies i design with </h4>
+                <p className='text-gray-800 py-1'>HTML</p>
+                <p className='text-gray-800 py-1'>CSS</p>
                 <p className='text-gray-800 py-1'>Figma</p>
+                <p className='text-gray-800 py-1'>Tailwind</p>
+                <p className='text-gray-800 py-1'>Flask</p>
+                <p className='text-gray-800 py-1'>Next.js</p>
+                <p className='text-gray-800 py-1'>React.js</p>
               </div>
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
                 <Image src={consulting} width={100} height={100} />
                 <h3 className='text-lg font-medium pt-8 pb-2'>
-                  Beautiful Designs
+                  Back-End 
                 </h3>
                 <p className='py-2'>
-                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
-                  ksjf isub aiousbaou foba soidb asib oiusa
+                  For my Back-End stack i use Python, C and JavaScript 
                 </p>
-                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
-                <p className='text-gray-800 py-1'>Photoshop</p>
-                <p className='text-gray-800 py-1'>Illustrator</p>
-                <p className='text-gray-800 py-1'>Figma</p>
+                <h4 className='py-4 text-teal-600'>Technologies for Back-End</h4>
+                <p className='text-gray-800 py-1'>Python</p>
+                <p className='text-gray-800 py-1'>C</p>
+                <p className='text-gray-800 py-1'>JavaScript</p>
               </div>
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
                 <Image src={code} width={100} height={100} object-center/>
