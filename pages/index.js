@@ -120,16 +120,15 @@ export default function Home() {
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
                 <Image src={code} width={100} height={100} object-center/>
                 <h3 className='text-lg font-medium pt-8 pb-2'>
-                  Beautiful Designs
+                  Version Control and Databases
                 </h3>
                 <p className='py-2'>
-                  sakfjbsasiau bsaoib fiausiobfasifbsaiofubsoifu isu baifjb
-                  ksjf isub aiousbaou foba soidb asib oiusa
+                  My main source of version control is through GitHub
+                  and for Databases I use SQLPostgres
                 </p>
-                <h4 className='py-4 text-teal-600'>Design tools i use</h4>
-                <p className='text-gray-800 py-1'>Photoshop</p>
-                <p className='text-gray-800 py-1'>Illustrator</p>
-                <p className='text-gray-800 py-1'>Figma</p>
+                <h4 className='py-4 text-teal-600'>Version Control and Databases</h4>
+                <p className='text-gray-800 py-1'>SQLPostgres</p>
+                <p className='text-gray-800 py-1'>GitHub</p>
               </div>
             </div>
           </section>
@@ -138,17 +137,16 @@ export default function Home() {
               <h3 className='text-3xl py-1 dark:text-white'>Portfolio</h3>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
                 {" "}
-                asoiasnoifn saoif nasoiasf sapiohfdsa poiash pisaof
-                a aopisdah poisadhf oih asdpoifash safiosugsaaspioö fasifusagsidousgfiaposid 
-                dsajklb saijbs okhasndj aspiudb asidfjbsa ijbsadif jsadbiasjdkb sdj
-              <span className='text-teal-500'>agencies</span>
-              consulted for<span className='text-teal-500'>startups</span>
-              ajsdfnisljk askj asdjkfba asjkldfba ifasbj asdjkfbda fijaskb asijb 
-              asp baifjb iabs jdofijsakbijfbsajfbasp f aiufdsb aiusab faui pa 
+                As my final project i developed a Microblogging application using Python, Flask, SQLAlchemy and Jinja2
+                these technologies helped me with implementing templates, web forms, databases, email automation, an 
+                organised large application structure, user authentication .... Heres a link to my application
+              <span className='text-teal-500'> (Microblogging application) </span>
+              cand a link for my repository <span className='text-teal-500'> (Code) </span>
+              Through version control and keeping an organised application structure i managed to keep
+              a clear and organised code base
               </p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
-                savijbs dsvaiubvsaiiusab sviaub divub isub vsaio sviu basv
-                sdiuv hisuvb asioub vasioub 
+                Below are some example images of my Projects 
               </p>
             </div>
             <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
