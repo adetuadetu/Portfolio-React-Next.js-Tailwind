@@ -141,7 +141,7 @@ export default function Home() {
                 these technologies helped me with implementing templates, web forms, databases, email automation, an 
                 organised large application structure, user authentication .... Heres a link to my application
               <span className='text-teal-500'> (Microblogging application) </span>
-              cand a link for my repository <span className='text-teal-500'> (Code) </span>
+              and a link to my repository <span className='text-teal-500'> (Code) </span>
               Through version control and keeping an organised application structure i managed to keep
               a clear and organised code base
               </p>
