@@ -68,23 +68,6 @@ export default function Home() {
           </section>
 
           <section>
-            <div>
-              <h3 className='text-3xl py-1 dark:text-white'> Services that I offer </h3>
-              <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
-                {" "}
-                asoiasnoifn saoif nasoiasf sapiohfdsa poiash pisaof
-                a aopisdah poisadhf oih asdpoifash safiosugsaaspioö fasifusagsidousgfiaposid 
-                dsajklb saijbs okhasndj aspiudb asidfjbsa ijbsadif jsadbiasjdkb sdj
-              <span className='text-teal-500'>agencies</span>
-              consulted for<span className='text-teal-500'>startups</span>
-              ajsdfnisljk askj asdjkfba asjkldfba ifasbj asdjkfbda fijaskb asijb 
-              asp baifjb iabs jdofijsakbijfbsajfbasp f aiufdsb aiusab faui pa 
-              </p>
-              <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
-                savijbs dsvaiubvsaiiusab sviaub divub isub vsaio sviu basv
-                sdiuv hisuvb asioub vasioub 
-              </p>
-            </div>
             <div className='lg:flex gap-10'>
               <div className='grid place-items-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-500'>
                 <Image src={design} width={100} height={100} />
