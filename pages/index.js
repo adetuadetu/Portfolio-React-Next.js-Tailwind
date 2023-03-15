@@ -78,7 +78,7 @@ export default function Home() {
                   As well as using HTML and CSS i also use frameworks such
                    as Tailwind, Flask, React.js and Next.js 
                 </p>
-                <h4 className='py-4 text-teal-600'>Technologies i design with </h4>
+                <h4 className='py-4 text-teal-600'>Technologies I Design With </h4>
                 <p className='text-gray-800 py-1'>HTML</p>
                 <p className='text-gray-800 py-1'>CSS</p>
                 <p className='text-gray-800 py-1'>Figma</p>
